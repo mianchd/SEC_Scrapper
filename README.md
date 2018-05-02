@@ -1,7 +1,7 @@
 
 # SEC Scrapper
 
-1.	Nothing needs to install anything, just click and run.
+1.	No need to install anything, just click and run.
 2.	The program has been developed to be very flexible so that new type of filings to search or new keywords can be included by simply typing them.
 3.	The program has been successfully tested on Windows 10 - 64Bit system
 4.	Windows Firewall will ask whether to Allow the program, which must be allowed.
